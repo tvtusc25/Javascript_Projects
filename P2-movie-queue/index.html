@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Movie Queue</title>
+</head>
+<body>
+    <div class="paragraph-container">
+        <p class="left-p">Stay Connected with Us! <i class="fa fa-twitter"> <i class="fa fa-instagram"> <i class="fa fa-linkedin"></i></i></i></p>
+        <p class="right-p">Welcome, User! <i class="fa fa-user"></i></p>
+    </div>
+    
+    <h1><i class="fa fa-forward"></i> Movie Queuer <i class="fa fa-backward"></i></h1>
+    <p class="custom-paragraph-1">Queue Up Your Favorite Flicks...</p>
+
+    <input type="text" id="searchInput" placeholder="Search movies...">
+
+    <div class="movie-container">
+        <div class="column">
+            <h2><i class="fa fa-film"></i> All Movies <span id="numMovies">(0)</span></h2>
+            <ul id="movieList"></ul>
+        </div>
+        <div class="column">
+            <h2><i class="fa fa-list"></i> Movie Queue</h2>
+            <p><i class="fa fa-ticket"></i> Total Movies: <span id="totalMovies">0</span></p>
+            <p><i class="fa fa-calendar"></i> Total Duration: <span id="totalDuration">0:00</span></p>
+            <ol id="queueList"></ol>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

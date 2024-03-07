@@ -1,0 +1,101 @@
+movie_title,director_name,actor_1_name,actor_2_name,title_year,duration
+Molly ,John Duigan,Elaine Hendrix,Jill Hennessy,1999.0,102.0
+May ,Lucky McKee,James Duval,Will Estes,2002.0,93.0
+Earth to Echo ,Dave Green,Teo Halm,Ella Wahlestedt,2014.0,91.0
+Motherhood ,Katherine Dieckmann,Stephanie Szostak,Minnie Driver,2009.0,90.0
+You Can't Take It with You ,Frank Capra,Jean Arthur,Ann Miller,1938.0,126.0
+The Canyons ,Paul Schrader,Nolan Gerard Funk,Gus Van Sant,2013.0,99.0
+The City of Your Final Destination ,James Ivory,Alexandra Maria Lara,Omar Metwally,2009.0,117.0
+Unfinished Business ,Ken Scott,Tom Wilkinson,June Diane Raphael,2015.0,91.0
+The Other End of the Line ,James Dodson,Larry Miller,Anupam Kher,2008.0,106.0
+11:14 ,Greg Marcks,Henry Thomas,Barbara Hershey,2003.0,85.0
+Iris ,Richard Eyre,Kate Winslet,Jim Broadbent,2001.0,91.0
+Hitman ,Xavier Gens,Henry Ian Cusick,Dougray Scott,2007.0,94.0
+The Perfect Game ,William Dear,Clifton Collins Jr.,Cheech Marin,2009.0,118.0
+Vampire in Brooklyn ,Wes Craven,John Witherspoon,W. Earl Brown,1995.0,100.0
+The Fast and the Furious ,Rob Cohen,Paul Walker,Vin Diesel,2001.0,106.0
+Kiss the Girls ,Gary Fleder,Morgan Freeman,Tony Goldwyn,1997.0,115.0
+Miss Julie ,Liv Ullmann,Samantha Morton,Jessica Chastain,2014.0,129.0
+Max Keeble's Big Move ,Tim Hill,Noel Fisher,Amber Valletta,2001.0,91.0
+The Jungle Book ,Jon Favreau,Scarlett Johansson,Bill Murray,2016.0,106.0
+Thor ,Kenneth Branagh,Chris Hemsworth,Natalie Portman,2011.0,115.0
+Under Siege 2: Dark Territory ,Geoff Murphy,Peter Greene,Brenda Bakke,1995.0,92.0
+Perfect Cowboy ,Ken Roht,Charla Cochran,Joe Lev,2014.0,109.0
+Godzilla Resurgence ,Hideaki Anno,Mark Chinnery,Shin'ya Tsukamoto,2016.0,120.0
+Skyline ,Colin Strause,David Zayas,Donald Faison,2010.0,97.0
+The Sixth Sense ,M. Night Shyamalan,Bruce Willis,Haley Joel Osment,1999.0,107.0
+Unknown ,Jaume Collet-Serra,Liam Neeson,Frank Langella,2011.0,113.0
+Transformers: Dark of the Moon ,Michael Bay,Glenn Morshower,Lester Speight,2011.0,154.0
+The Shawshank Redemption ,Frank Darabont,Morgan Freeman,Jeffrey DeMunn,1994.0,142.0
+The Spiderwick Chronicles ,Mark Waters,Martin Short,Tod Fennell,2008.0,107.0
+Outside Bet ,Sacha Bennett,Bob Hoskins,Jenny Agutter,2012.0,101.0
+Trance ,Danny Boyle,Rosario Dawson,Spencer Wilding,2013.0,101.0
+The Longest Day ,Ken Annakin,Richard Burton,Richard Beymer,1962.0,178.0
+Hav Plenty ,Christopher Scott Cherot,Hill Harper,Robinne Lee,1997.0,84.0
+Housebound ,Gerard Johnstone,Morgana O'Reilly,Bruce Hopkins,2014.0,107.0
+A Tale of Three Cities ,Mabel Cheung,Wei Tang,Ching Wan Lau,2015.0,130.0
+All Good Things ,Andrew Jarecki,Ryan Gosling,Kirsten Dunst,2010.0,101.0
+Agent Cody Banks 2: Destination London ,Kevin Allen,Daniel Roebuck,Frankie Muniz,2004.0,100.0
+Return to Me ,Bonnie Hunt,Minnie Driver,Jim Belushi,2000.0,115.0
+Holes ,Andrew Davis,Tim Blake Nelson,Zane Holtz,2003.0,117.0
+Our Idiot Brother ,Jesse Peretz,Zooey Deschanel,Adam Scott,2011.0,90.0
+The Devil Wears Prada ,David Frankel,Meryl Streep,Anne Hathaway,2006.0,109.0
+Half Baked ,Tamra Davis,Dave Chappelle,Harland Williams,1998.0,82.0
+The Abyss ,James Cameron,Michael Biehn,Todd Graff,1989.0,171.0
+The Last of the Mohicans ,Michael Mann,Wes Studi,Terry Kinney,1992.0,117.0
+The Girl on the Train ,André Téchiné,Catherine Deneuve,Ronit Elkabetz,2009.0,105.0
+Blue Car ,Karen Moncrieff,Frances Fisher,Agnes Bruckner,2002.0,88.0
+Leatherheads ,George Clooney,Robert Baker,Malcolm Goodwin,2008.0,114.0
+Prince of Persia: The Sands of Time ,Mike Newell,Jake Gyllenhaal,Richard Coyle,2010.0,116.0
+Blended ,Frank Coraci,Bella Thorne,Adam Sandler,2014.0,117.0
+The Front Page ,Billy Wilder,Austin Pendleton,Harold Gould,1974.0,105.0
+Peaceful Warrior ,Victor Salva,Scott Mechlowicz,Tim DeKay,2006.0,120.0
+Bandits ,Barry Levinson,Bruce Willis,Brían F. O'Byrne,2001.0,123.0
+The Karate Kid ,John G. Avildsen,Martin Kove,William Zabka,1984.0,126.0
+McFarland USA,Niki Caro,Morgan Saylor,Valente Rodriguez,2015.0,129.0
+Philomena ,Stephen Frears,Steve Coogan,Mare Winningham,2013.0,98.0
+Boyhood ,Richard Linklater,Ellar Coltrane,Lorelei Linklater,2014.0,165.0
+Lucy ,Luc Besson,Scarlett Johansson,Morgan Freeman,2014.0,89.0
+Hardflip ,Johnny Remo,Matthew Ziff,Randy Wayne,2012.0,112.0
+Daddy's Home ,Sean Anders,Will Ferrell,Linda Cardellini,2015.0,96.0
+In Her Line of Fire ,Brian Trenchard-Smith,David Keith,Mariel Hemingway,2006.0,88.0
+Volver ,Pedro Almodóvar,Carmen Maura,Lola Dueñas,2006.0,121.0
+Anastasia ,Don Bluth,Kirsten Dunst,Kelsey Grammer,1997.0,94.0
+A View to a Kill ,John Glen,Patrick Macnee,Alison Doody,1985.0,131.0
+Dry Spell ,Travis Legge,Kristen Seavey,Suzi Lorraine,2013.0,90.0
+Jack Reacher ,Christopher McQuarrie,Tom Cruise,Robert Duvall,2012.0,130.0
+Hugo ,Martin Scorsese,Chloë Grace Moretz,Christopher Lee,2011.0,126.0
+Vessel ,Clark Baker,Taylor Pigeon,Alan Pietruszewski,2012.0,14.0
+Playing for Keeps ,Gabriele Muccino,Gerard Butler,Dennis Quaid,2012.0,105.0
+The One ,James Wong,Jason Statham,Jet Li,2001.0,85.0
+Mystic Pizza ,Donald Petrie,Julia Roberts,Lili Taylor,1988.0,104.0
+AVP: Alien vs. Predator ,Paul W.S. Anderson,Sanaa Lathan,Colin Salmon,2004.0,109.0
+Valley of the Heart's Delight ,Tim Boxell,Bruce McGill,Diana Scarwid,2006.0,100.0
+The Past is a Grotesque Animal ,Jason Miller,Jon Brion,Dottie Alexander,2014.0,77.0
+Outside Providence ,Michael Corrente,Jonathan Brandis,George Wendt,1999.0,96.0
+The Heart of Me ,Thaddeus O'Sullivan,Olivia Williams,Luke Newberry,2002.0,96.0
+Forrest Gump ,Robert Zemeckis,Tom Hanks,Siobhan Fallon Hogan,1994.0,142.0
+Goal! The Dream Begins ,Danny Cannon,Sean Pertwee,Kuno Becker,2005.0,118.0
+The Aviator ,Martin Scorsese,Leonardo DiCaprio,Adam Scott,2004.0,170.0
+The Queen ,Stephen Frears,Roger Allam,Sylvia Syms,2006.0,94.0
+Born to Fly: Elizabeth Streb vs. Gravity ,Catherine Gund,Elizabeth Streb,Sarah Callan,2014.0,82.0
+Good Kill ,Andrew Niccol,Bruce Greenwood,Zoë Kravitz,2014.0,102.0
+Romeo Is Bleeding ,Peter Medak,Gary Oldman,Michael Wincott,1993.0,100.0
+The Cell ,Tarsem Singh,Dylan Baker,Jake Weber,2000.0,109.0
+Death Race 2000 ,Paul Bartel,Sylvester Stallone,David Carradine,1975.0,80.0
+The Three Musketeers ,Paul W.S. Anderson,Milla Jovovich,Logan Lerman,2011.0,110.0
+Resident Evil: Afterlife ,Paul W.S. Anderson,Milla Jovovich,Boris Kodjoe,2010.0,97.0
+Welcome to Collinwood ,Anthony Russo,Michael Jeter,Isaiah Washington,2002.0,86.0
+Strangerland ,Kim Farrant,Nicholas Hamilton,Reef Ireland,2015.0,112.0
+Lady in White ,Frank LaLoggia,Alex Rocco,Lukas Haas,1988.0,118.0
+Teenage Mutant Ninja Turtles II: The Secret of the Ooze ,Michael Pressman,Kevin Nash,Paige Turco,1991.0,88.0
+Oz the Great and Powerful ,Sam Raimi,Tim Holmes,Mila Kunis,2013.0,130.0
+How to Be Single ,Christian Ditter,Alison Brie,Damon Wayans Jr.,2016.0,110.0
+The Birth of a Nation ,Nate Parker,Jason Stuart,Nate Parker,2016.0,120.0
+Red Eye ,Wes Craven,Robert Pine,Carl Gilliard,2005.0,85.0
+Peace Propaganda & the Promised Land,Sut Jhally,Noam Chomsky,Seth Ackerman,2004.0,80.0
+The Crying Game ,Neil Jordan,Jim Broadbent,Miranda Richardson,1992.0,112.0
+The Golden Child ,Michael Ritchie,Victor Wong,Randall 'Tex' Cobb,1986.0,94.0
+The Huntsman: Winter's War ,Cedric Nicolas-Troyan,Chris Hemsworth,Sam Claflin,2016.0,120.0
+Edward Scissorhands ,Tim Burton,Johnny Depp,Dianne Wiest,1990.0,105.0
+Kiss Kiss Bang Bang ,Shane Black,Robert Downey Jr.,Corbin Bernsen,2005.0,103.0

@@ -1,0 +1,146 @@
+/* header and body*/
+body {
+    font-family: 'Nunito', sans-serif;
+    margin: 20px;
+    background-color: #08D9D6;
+    color: #EAEAEA
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-transform: uppercase; 
+    text-align: center;
+    color: #252A34;
+    padding: 0px;
+    font-size: 36px; 
+    font-weight: bold;
+}
+
+.paragraph-container {
+    display: flex;
+    padding: 0px;
+    color: #252A34;
+    line-height: 1;
+    justify-content: space-between;
+}
+
+.left-p {
+    text-align: left;
+}
+
+.right-p {
+    text-align: right;
+}
+
+p.custom-paragraph-1 {
+    margin-top: 0;
+    font-size: 15px; 
+    font-weight: bold; 
+    text-align: center;
+    color: #252A34; 
+}
+
+/* containers and columns for add movie list and queue */
+.movie-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 2000px;
+}
+
+.column {
+    background-color: #252A34;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    flex: 1;
+    width: 50%;
+    padding: 10px;
+    border: 1px solid #EAEAEA;
+    border-radius: 8px;
+    overflow-y: auto;
+}
+
+.column:first-child {
+    margin-right: 10px;
+}
+
+.column:last-child {
+    margin-left: 10px;
+}
+
+/* search bar */
+input {
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+    background-color: #FF2E63;
+    color: #252A34;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    width: calc(100% - 20px);
+    margin: 10px 0;
+    border: 1px solid #EAEAEA;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+input::placeholder {
+    color: #252A34;
+}
+
+/* movie lists */
+ul, ol {
+    padding-left: 0px;
+    padding-right: 0px;
+    list-style-type: none;
+}
+
+ol {
+    counter-reset: movie-counter;
+    list-style-type: none;
+}
+
+ol li::before {
+    content: counter(movie-counter) ". ";
+    counter-increment: movie-counter;
+}
+
+li {
+    background-color: #FF2E63;
+    margin: 10px 0;
+    border: 1px solid #EAEAEA;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.movie-title {
+    font-weight: bold;
+    font-size: 24px;
+    color: #252A34;
+    margin-bottom: 5px;
+}
+
+/* buttons */
+.addBtn {
+    margin-top: 10px;
+    background: #EAEAEA;
+    color: green;
+    border: 1px solid #252A34;;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.removeBtn {
+    margin-top: 10px;
+    background: #EAEAEA;
+    color: #fb003f;
+    border: 1px solid #252A34;;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+button:hover {
+    background: #252A34;
+    color: #EAEAEA;
+}
